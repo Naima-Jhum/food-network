@@ -14,6 +14,7 @@ section{
 .half-width{
     width: 50%;
     padding-left: 2%;
+    
 }
 .half-width img{
     width: 80%;
@@ -34,4 +35,20 @@ section{
     background-image: url(images/shapes/Frame\ 57.jpg);
     
     background-position: 100%;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom:150px;
+}
+.Recipies-Item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left:10px;
+    border-radius: 10px;
+    box-shadow:10px 10px 10ox gray;
+    border: 1px solid
+}.Recipies-area{
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
 }
